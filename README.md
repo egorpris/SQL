@@ -1,2 +1,2 @@
 # SQL
-SQL querys for the test task
+SQL queries for the test task
